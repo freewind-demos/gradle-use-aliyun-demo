@@ -14,5 +14,5 @@ dependencies {
 // used to generate `./gradlew`
 // by run `gradle wrapper`
 task wrapper(type: Wrapper) {
-    gradleVersion = '4.8' //version required
+    gradleVersion = '4.9' //version required
 }
