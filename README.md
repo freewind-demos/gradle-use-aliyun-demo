@@ -1,22 +1,4 @@
-Gradle Hello World Demo
-=======================
+Gradle Use Aliyun Demo
+======================
 
-A very simple java project with gradle.
-
-Run tests:
-
-```
-./gradlew test
-```
-
-Setup in IDEA
---------------
-
-Use command line:
-
-```
-idea .
-```
-
-Or import the project directly with IDEA.
-
+Use aliyun as the maven repository to speed downloading.
